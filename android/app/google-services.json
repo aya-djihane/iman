@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046056750160",
+    "project_id": "arcommand",
+    "storage_bucket": "arcommand.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046056750160:android:e9bf5f83e3cc3184609555",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046056750160-atflrfpscskpfkcg1sm49eb7q4pc6b8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJbK62B-7-lKiTY7b-e_sXrxkxxtM0pkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046056750160-atflrfpscskpfkcg1sm49eb7q4pc6b8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
